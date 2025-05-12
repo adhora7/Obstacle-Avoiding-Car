@@ -4,7 +4,7 @@
 **Project Overview**:
 This project demonstrates an **Obstacle Avoiding Robot** using an **Arduino** and various sensors. The robot uses an **Ultrasonic Sensor** to detect obstacles in its path. When an obstacle is detected within a certain distance, the robot changes its direction. The robot is equipped with a **Servo Motor** to help it turn, and it uses **DC motors** for movement.
 
-**Components Required**:
+
 ### <h4>Components required in this module:</h4>
 <ol>
   <li><p>Arduino</p></li>
@@ -14,13 +14,13 @@ This project demonstrates an **Obstacle Avoiding Robot** using an **Arduino** an
   <li><p>Servo Motor</p></li>
   <li><p>Jumper Wires</p></li>
   <li><p>Double-Sided Tape</p></li>
-  <li><p>3 x 9V Batteries or a Voltage Source</p></li>
+  <li><p>Batteries </p></li>
   <li><p>PC</p></li>
   <li><p>Arduino Cable</p></li>
 </ol>
 
 ### System Diagram:
-![Obstacle Avoiding Robot](./project_picture_and_video/robot_image.jpg)
+![Obstacle Avoiding Robot](./project_picture_and_video/car.jpg)
 
 **Figure 1**: The obstacle-avoiding robot setup with an ultrasonic sensor and servo motor. The robot automatically changes direction when an obstacle is detected.
 
