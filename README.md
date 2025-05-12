@@ -43,5 +43,5 @@ The robot uses the servo motor to rotate and check the left and right sides for 
 ### Arduino Code:
 ```cpp
 // Arduino code for obstacle avoiding robot using ultrasonic sensor and motors
-// [Include your full Arduino code here, or link to the file]
+
 
